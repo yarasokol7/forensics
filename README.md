@@ -8,7 +8,7 @@
 
 ## Tasks
 
-> password for all .rar files
+> PASSWORD for all .rar files
 > ```
 > hacktheblue
 > ```
