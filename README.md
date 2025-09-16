@@ -7,6 +7,7 @@
 | 3 | | | | |
 
 ## Tasks
+> [!NOTE]
 > password for all .rar files
 ```
 hacktheblue
