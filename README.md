@@ -2,9 +2,9 @@
 Тут собрано мое портфолио по форензике, состоящее из решения тасков.
 | № | Task Name | Cothegory | Diificulty | Date |
 | --- | --- | --- | --- | --- |
-| 1 | [`RomCom`](Portfolio/RomCom.pdf) | HTB Sherlocks | Easy | 15.09.2025 |
-| 2 | [`Pikaptcha`](Portfolio/Pikaptcha.pdf) | HTB Sherlocks | Easy | 16.09.2025 |
-| 3 | [`Allegretto`](Portfoli\Allegretto.pdf)| HTB Sherlocks | Medium | 18.092025 |
+| 1 | [`RomCom`](Portfolio/RomCom.pdf) | HTB Sherlocks \ DFIR | Easy | 15.09.2025 |
+| 2 | [`Pikaptcha`](Portfolio/Pikaptcha.pdf) | HTB Sherlocks \ DFIR | Easy | 16.09.2025 |
+| 3 | [`Allegretto`](Portfoli/Allegretto.pdf) | HTB Sherlocks \ DFIR | Medium | 18.092025 |
 
 ## Tasks
 
