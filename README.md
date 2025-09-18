@@ -21,8 +21,8 @@ Click to download the .zip file [here](https://labs.hackthebox.com/api/v4/challe
 
 ### Allegretto (Medium)
 Click to download the .zip file [here](https://labs.hackthebox.com/api/v4/challenges/929/cdn/redirect?auth_user_id=948426&expires=1758203317&signature=98e803e055d23218994fe765898d10bbe8ab5c444f294463f5fd73b3f43afc3a). To solve the task I used tools [MFTECmd](https://download.ericzimmermanstools.com/net6/MFTECmd.zip) and [TimelineExplorer](https://download.ericzimmermanstools.com/net6/TimelineExplorer.zip).  
-**Technology**: Windows, Email, USB, TOR, Bitlocker. 
-**Artifacts given**:  
+**Technology**: Windows, Email, USB, TOR, Bitlocker.  
+**Artifacts given**:
 - .E01 image file of an encrypted USB drive
 - Tor browser history
 - Thunderbird & Proton Mail profiles
