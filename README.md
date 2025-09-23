@@ -1,10 +1,12 @@
 # The Forensics Portfolio
 Тут собрано мое портфолио по форензике, состоящее из решения тасков.
-| № | Task Name | Cothegory | Diificulty | Date |
+| № | Task Name | Cathegory | Difficulty | Date |
 | --- | --- | --- | --- | --- |
 | 1 | [`RomCom`](Portfolio/RomCom.pdf) | HTB Sherlocks - DFIR | Easy | 15.09.2025 |
 | 2 | [`Pikaptcha`](Portfolio/Pikaptcha.pdf) | HTB Sherlocks - DFIR | Easy | 16.09.2025 |
-| 3 | [`Allegretto`](Portfolio/Allegretto.pdf) | HTB Sherlocks - DFIR | Medium | 18.092025 |
+| 3 | [`Allegretto`](Portfolio/Allegretto.pdf) | HTB Sherlocks - DFIR | Medium | 18.09.2025 |
+| 4 | [`Bumblebee`](Portfolio/Bumblebee.pdf) | HTB Sherlocks - DFIR | Easy | 22.09.2025 |
+| 5 | [`Zenith`](Portfolio/Zenith.pdf) | HTB Sherlocks - DFIR | Easy | 23.09.2025 |
 
 ## Tasks
 
@@ -28,4 +30,18 @@ Click to download the .zip file [here](https://labs.hackthebox.com/api/v4/challe
 - Thunderbird & Proton Mail profiles
 - BitLocker recovery Key
 - Disk Artifacts ($MFT,$USN...)
+
+### Bumblebee (Easy)
+Click to download the .zip file [here](https://labs.hackthebox.com/api/v4/challenges/554/cdn/redirect?auth_user_id=948426&expires=1758620577&signature=8cb86da61b1d32ad87b497e1016d3d0a3cd6c91fcba6b756c316693d328142ae). To solve the task I used [SQLite Viewer](https://sqliteviewer.app/).  
+**Technology**: Windows, SQLite DataBase, LOG-file.  
+**Artifacts given**:
+- .sqlite DataBase 
+- access.log file
+
+### Zenith (Easy)
+Click to download the .zip file [here](https://labs.hackthebox.com/api/v4/challenges/939/cdn/redirect?auth_user_id=948426&expires=1758620608&signature=25590727963bdf91b8fcc9a55a2445a27f2f41534696b20cf2a96929ef5e5067). To solve the task I used [ExifToolGui](https://exiftool.org/gui/), [TimelineExplorer](https://download.ericzimmermanstools.com/net6/TimelineExplorer.zip) and [IDA Pro](https://hex-rays.com/ida-pro).  
+**Technology**: Windows, Email, Revers-engineering, Metadata, Windows Event Log  
+**Artifacts given**:
+- Email 
+- Windows Event Log
 
